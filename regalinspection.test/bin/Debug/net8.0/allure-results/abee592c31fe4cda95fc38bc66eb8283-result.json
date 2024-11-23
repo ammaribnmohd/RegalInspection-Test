@@ -1,0 +1,80 @@
+{
+  "uuid": "ea3c8400-8f6c-4d26-8b09-669a030ed49c",
+  "historyId": "a037f5203d061aed90500489eff6dd1f",
+  "testCaseId": "86e1a92fee41cf1e36f3ad7f639e7937",
+  "fullName": "regalinspection.test:regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AMMAR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "regalinspection.test.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithInvalidCredentials"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTests"
+    },
+    {
+      "name": "feature",
+      "value": "Login Test with Invalid Credentials"
+    },
+    {
+      "name": "suite",
+      "value": "LoginTests"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithInvalidCredentials",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Check if login error message is visible",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899259334,
+      "stop": 1731899259352
+    },
+    {
+      "name": "Login failed as expected",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899259353,
+      "stop": 1731899259353
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "863024d5-605f-4901-93ac-369df2e2c646-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1731899254848,
+  "stop": 1731899260358
+}

@@ -1,0 +1,101 @@
+2024-11-18 09:03:14.493 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 09:03:17.701 +06:00 [INF] Login successful for row 54
+2024-11-18 09:03:29.543 +06:00 [INF] Form submitted successfully for RowId: 54
+2024-11-18 09:03:30.329 +06:00 [INF] Logged out after form submission for RowId: 54
+2024-11-18 09:03:30.332 +06:00 [INF] Tests completed.
+2024-11-18 09:03:35.482 +06:00 [INF] Starting LoginWithInvalidCredentials test...
+2024-11-18 09:03:36.777 +06:00 [INF] Attempting login with invalid credentials for row 56 with username: unknown_admin and password: unknownadmin
+2024-11-18 09:03:40.065 +06:00 [INF] Login correctly failed for row 56 - Error message is visible
+2024-11-18 09:03:41.180 +06:00 [INF] Starting LoginWithValidCredentials test...
+2024-11-18 09:03:42.227 +06:00 [INF] Attempting login with valid credentials for row 51 with username: super_admin and password: SuperAdmin123@
+2024-11-18 09:03:42.256 +06:00 [ERR] Error encountered during valid login test for row 51
+OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at regalinspection.test.Pages.LoginPage.get_TxtUserName() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 15
+   at regalinspection.test.Pages.LoginPage.Login(String username, String password) in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 23
+   at regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 27
+2024-11-18 09:03:42.289 +06:00 [INF] Attempting login with valid credentials for row 52 with username: trioval_admin and password: TriovalAdmin123@
+2024-11-18 09:03:42.300 +06:00 [ERR] Error encountered during valid login test for row 52
+OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at regalinspection.test.Pages.LoginPage.get_TxtUserName() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 15
+   at regalinspection.test.Pages.LoginPage.Login(String username, String password) in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 23
+   at regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 27
+2024-11-18 09:03:42.301 +06:00 [INF] Attempting login with valid credentials for row 53 with username: trioval_inspector and password: TriovalInspector123@
+2024-11-18 09:03:42.312 +06:00 [ERR] Error encountered during valid login test for row 53
+OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at regalinspection.test.Pages.LoginPage.get_TxtUserName() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 15
+   at regalinspection.test.Pages.LoginPage.Login(String username, String password) in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 23
+   at regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 27
+2024-11-18 09:03:42.314 +06:00 [INF] Attempting login with valid credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 09:03:42.325 +06:00 [ERR] Error encountered during valid login test for row 54
+OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at regalinspection.test.Pages.LoginPage.get_TxtUserName() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 15
+   at regalinspection.test.Pages.LoginPage.Login(String username, String password) in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 23
+   at regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 27
+2024-11-18 09:03:42.326 +06:00 [INF] Attempting login with valid credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 09:03:42.337 +06:00 [ERR] Error encountered during valid login test for row 55
+OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at regalinspection.test.Pages.LoginPage.get_TxtUserName() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 15
+   at regalinspection.test.Pages.LoginPage.Login(String username, String password) in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 23
+   at regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 27
+2024-11-18 09:03:42.343 +06:00 [INF] Tests completed.
+2024-11-18 09:06:17.844 +06:00 [INF] Starting test execution in TestRunner for LoginTests and SubmitFormTests suites...
+2024-11-18 09:06:17.934 +06:00 [INF] Executing LoginTests...
+2024-11-18 09:07:29.696 +06:00 [INF] Completed LoginTests execution.
+2024-11-18 09:07:29.697 +06:00 [INF] Processing test results for LoginTests...
+2024-11-18 09:07:29.700 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials in LoginTests passed.
+2024-11-18 09:07:29.701 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials in LoginTests passed.
+2024-11-18 09:07:29.701 +06:00 [INF] Test regalinspection.test.TestCases.SubmitFormTests.SubmitValidInspectionForm in LoginTests passed.
+2024-11-18 09:07:29.702 +06:00 [INF] Completed processing test results for LoginTests.
+2024-11-18 09:07:29.702 +06:00 [INF] Executing SubmitFormTests...
+2024-11-18 09:08:40.980 +06:00 [INF] Completed SubmitFormTests execution.
+2024-11-18 09:08:40.981 +06:00 [INF] Processing test results for SubmitFormTests...
+2024-11-18 09:08:40.981 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials in SubmitFormTests passed.
+2024-11-18 09:08:40.982 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials in SubmitFormTests passed.
+2024-11-18 09:08:40.982 +06:00 [INF] Test regalinspection.test.TestCases.SubmitFormTests.SubmitValidInspectionForm in SubmitFormTests passed.
+2024-11-18 09:08:40.982 +06:00 [INF] Completed processing test results for SubmitFormTests.
+2024-11-18 09:08:40.983 +06:00 [INF] Test execution completed in TestRunner for LoginTests and SubmitFormTests suites.

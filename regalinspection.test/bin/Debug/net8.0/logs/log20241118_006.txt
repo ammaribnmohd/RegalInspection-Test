@@ -1,0 +1,7 @@
+2024-11-18 04:26:27.877 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 04:26:31.174 +06:00 [INF] Login successful for row 54
+2024-11-18 04:26:43.327 +06:00 [INF] Form submitted successfully for RowId: 54
+2024-11-18 04:26:44.119 +06:00 [INF] Logged out after form submission for RowId: 54
+2024-11-18 04:26:44.200 +06:00 [INF] Tests completed.
+2024-11-18 08:45:45.794 +06:00 [INF] Starting test execution in TestRunner for LoginTests and SubmitFormTests suites...
+2024-11-18 08:45:46.214 +06:00 [INF] Executing LoginTests...

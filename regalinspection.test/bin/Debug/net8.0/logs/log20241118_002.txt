@@ -1,0 +1,8 @@
+2024-11-18 03:21:00.611 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 03:21:04.023 +06:00 [INF] Login successful for row 54
+2024-11-18 03:21:17.347 +06:00 [INF] Tests completed.
+2024-11-18 03:22:25.039 +06:00 [INF] Attempting login with credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 03:22:28.367 +06:00 [INF] Login successful for row 55
+2024-11-18 03:22:41.647 +06:00 [INF] Tests completed.
+2024-11-18 03:23:00.110 +06:00 [INF] Attempting login with credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 03:23:03.428 +06:00 [INF] Login successful for row 55

@@ -1,0 +1,15 @@
+2024-11-15 06:40:00.085 +06:00 [INF] Starting LoginWithInvalidCredentials test...
+2024-11-15 06:40:01.883 +06:00 [INF] Attempting login with invalid credentials for row 56 with username: unknown_admin and password: unknownadmin
+2024-11-15 06:40:05.233 +06:00 [INF] Login correctly failed for row 56 - Error message is visible
+2024-11-15 06:40:06.389 +06:00 [INF] Starting LoginWithValidCredentials test...
+2024-11-15 06:40:07.126 +06:00 [INF] Attempting login with valid credentials for row 51 with username: super_admin and password: SuperAdmin123@
+2024-11-15 06:40:10.459 +06:00 [INF] Login successful for row 51
+2024-11-15 06:40:11.689 +06:00 [INF] Attempting login with valid credentials for row 52 with username: trioval_admin and password: TriovalAdmin123@
+2024-11-15 06:40:14.979 +06:00 [INF] Login successful for row 52
+2024-11-15 06:40:16.210 +06:00 [INF] Attempting login with valid credentials for row 53 with username: trioval_inspector and password: TriovalInspector123@
+2024-11-15 06:40:19.539 +06:00 [INF] Login successful for row 53
+2024-11-15 06:40:20.749 +06:00 [INF] Attempting login with valid credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-15 06:40:24.019 +06:00 [INF] Login successful for row 54
+2024-11-15 06:40:25.221 +06:00 [INF] Attempting login with valid credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-15 06:40:28.399 +06:00 [INF] Login successful for row 55
+2024-11-15 06:40:29.602 +06:00 [INF] Tests completed.

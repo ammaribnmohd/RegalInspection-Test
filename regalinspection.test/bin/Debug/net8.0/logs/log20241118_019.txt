@@ -1,0 +1,18 @@
+2024-11-18 09:08:24.833 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 09:08:28.085 +06:00 [INF] Login successful for row 54
+2024-11-18 09:08:39.985 +06:00 [INF] Form submitted successfully for RowId: 54
+2024-11-18 09:08:40.839 +06:00 [INF] Logged out after form submission for RowId: 54
+2024-11-18 09:08:40.842 +06:00 [INF] Tests completed.
+2024-11-18 09:14:32.057 +06:00 [INF] Starting test execution in TestRunner for LoginTests and SubmitFormTests suites...
+2024-11-18 09:14:32.150 +06:00 [INF] Executing LoginTests...
+2024-11-18 09:15:06.468 +06:00 [INF] Completed LoginTests execution.
+2024-11-18 09:15:06.469 +06:00 [INF] Processing test results for LoginTests...
+2024-11-18 09:15:06.472 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials in LoginTests passed.
+2024-11-18 09:15:06.473 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials in LoginTests passed.
+2024-11-18 09:15:06.473 +06:00 [INF] Completed processing test results for LoginTests.
+2024-11-18 09:15:06.473 +06:00 [INF] Executing SubmitFormTests...
+2024-11-18 09:15:43.429 +06:00 [INF] Completed SubmitFormTests execution.
+2024-11-18 09:15:43.429 +06:00 [INF] Processing test results for SubmitFormTests...
+2024-11-18 09:15:43.430 +06:00 [INF] Test regalinspection.test.TestCases.SubmitFormTests.SubmitValidInspectionForm in SubmitFormTests passed.
+2024-11-18 09:15:43.430 +06:00 [INF] Completed processing test results for SubmitFormTests.
+2024-11-18 09:15:43.431 +06:00 [INF] Test execution completed in TestRunner for LoginTests and SubmitFormTests suites.

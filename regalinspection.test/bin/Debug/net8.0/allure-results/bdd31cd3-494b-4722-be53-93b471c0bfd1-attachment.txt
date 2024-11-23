@@ -1,0 +1,11 @@
+[09:15:11 INF] Starting SubmitValidInspectionForm test...
+[09:15:11 INF] Processing test data for RowId: 55
+[09:15:11 INF] Attempting login with credentials for row 55 with username: ammar22 and password: Ammar12!
+[09:15:14 INF] Login successful for row 55
+[09:15:26 INF] Form submitted successfully for RowId: 55
+[09:15:27 INF] Logged out after form submission for RowId: 55
+[09:15:27 INF] Processing test data for RowId: 54
+[09:15:27 INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+[09:15:30 INF] Login successful for row 54
+[09:15:42 INF] Form submitted successfully for RowId: 54
+[09:15:43 INF] Logged out after form submission for RowId: 54

@@ -1,0 +1,160 @@
+{
+  "uuid": "48f8590f-66aa-4ab3-a33e-7e21b86b7975",
+  "historyId": "129573a4244993fc2370551e689049c9",
+  "testCaseId": "ae7391f83168fd7692312e4a2379e9d3",
+  "fullName": "regalinspection.test:regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AMMAR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "regalinspection.test.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginWithValidCredentials"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTests"
+    },
+    {
+      "name": "feature",
+      "value": "Login Test with valid credentials"
+    },
+    {
+      "name": "suite",
+      "value": "LoginTests"
+    }
+  ],
+  "links": [],
+  "name": "LoginWithValidCredentials",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Check if dashboard is visible",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899687299,
+      "stop": 1731899687316
+    },
+    {
+      "name": "Login Successful",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899687316,
+      "stop": 1731899687316
+    },
+    {
+      "name": "Check if dashboard is visible",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899691780,
+      "stop": 1731899691793
+    },
+    {
+      "name": "Login Successful",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899691793,
+      "stop": 1731899691793
+    },
+    {
+      "name": "Check if dashboard is visible",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899696250,
+      "stop": 1731899696261
+    },
+    {
+      "name": "Login Successful",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899696262,
+      "stop": 1731899696262
+    },
+    {
+      "name": "Check if dashboard is visible",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899700602,
+      "stop": 1731899700614
+    },
+    {
+      "name": "Login Successful",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899700614,
+      "stop": 1731899700614
+    },
+    {
+      "name": "Check if dashboard is visible",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899705111,
+      "stop": 1731899705123
+    },
+    {
+      "name": "Login Successful",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899705123,
+      "stop": 1731899705123
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "9c1d604f-fe8a-407f-b5e5-7fd1ae588763-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1731899683019,
+  "stop": 1731899706343
+}

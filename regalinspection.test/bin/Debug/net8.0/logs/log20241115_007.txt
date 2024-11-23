@@ -1,0 +1,19 @@
+2024-11-15 05:13:09.357 +06:00 [INF] Starting LoginWithInvalidCredentials test...
+2024-11-15 05:13:11.196 +06:00 [INF] Attempting login with invalid credentials for row 56 with username: unknown_admin and password: unknownadmin
+2024-11-15 05:13:14.543 +06:00 [INF] Login correctly failed for row 56 - Error message is visible
+2024-11-15 05:13:16.265 +06:00 [INF] Starting LoginWithValidCredentials test...
+2024-11-15 05:13:16.531 +06:00 [INF] Attempting login for row 51 with username: super_admin and password: SuperAdmin123@
+2024-11-15 05:13:19.892 +06:00 [INF] Login successful for row 51
+2024-11-15 05:13:21.333 +06:00 [INF] Attempting login for row 52 with username: trioval_admin and password: TriovalAdmin123@
+2024-11-15 05:13:24.541 +06:00 [INF] Login successful for row 52
+2024-11-15 05:13:25.954 +06:00 [INF] Attempting login for row 53 with username: trioval_inspector and password: TriovalInspector123@
+2024-11-15 05:13:29.176 +06:00 [INF] Login successful for row 53
+2024-11-15 05:13:30.567 +06:00 [INF] Attempting login for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-15 05:13:33.771 +06:00 [INF] Login successful for row 54
+2024-11-15 05:13:35.155 +06:00 [INF] Attempting login for row 55 with username: ammar22 and password: Ammar12!
+2024-11-15 05:13:38.420 +06:00 [INF] Login successful for row 55
+2024-11-15 05:13:39.819 +06:00 [INF] Tests completed.
+2024-11-15 05:22:41.424 +06:00 [INF] Starting test execution in TestRunner for LoginTests suite...
+2024-11-15 05:23:17.789 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials passed.
+2024-11-15 05:23:17.790 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials passed.
+2024-11-15 05:23:17.791 +06:00 [INF] Test execution completed in TestRunner for LoginTests suite.

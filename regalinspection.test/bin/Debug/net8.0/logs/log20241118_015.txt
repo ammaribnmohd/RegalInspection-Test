@@ -1,0 +1,22 @@
+2024-11-18 09:02:24.728 +06:00 [INF] Starting LoginWithInvalidCredentials test...
+2024-11-18 09:02:26.025 +06:00 [INF] Attempting login with invalid credentials for row 56 with username: unknown_admin and password: unknownadmin
+2024-11-18 09:02:29.297 +06:00 [INF] Login correctly failed for row 56 - Error message is visible
+2024-11-18 09:02:30.406 +06:00 [INF] Starting LoginWithValidCredentials test...
+2024-11-18 09:02:31.463 +06:00 [INF] Attempting login with valid credentials for row 51 with username: super_admin and password: SuperAdmin123@
+2024-11-18 09:02:34.660 +06:00 [INF] Login successful for row 51
+2024-11-18 09:02:35.898 +06:00 [INF] Attempting login with valid credentials for row 52 with username: trioval_admin and password: TriovalAdmin123@
+2024-11-18 09:02:39.074 +06:00 [INF] Login successful for row 52
+2024-11-18 09:02:40.308 +06:00 [INF] Attempting login with valid credentials for row 53 with username: trioval_inspector and password: TriovalInspector123@
+2024-11-18 09:02:43.485 +06:00 [INF] Login successful for row 53
+2024-11-18 09:02:44.714 +06:00 [INF] Attempting login with valid credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 09:02:47.877 +06:00 [INF] Login successful for row 54
+2024-11-18 09:02:49.076 +06:00 [INF] Attempting login with valid credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 09:02:52.246 +06:00 [INF] Login successful for row 55
+2024-11-18 09:02:53.454 +06:00 [INF] Tests completed.
+2024-11-18 09:02:58.270 +06:00 [INF] Starting SubmitValidInspectionForm test...
+2024-11-18 09:02:58.276 +06:00 [INF] Processing test data for RowId: 55
+2024-11-18 09:02:58.445 +06:00 [INF] Attempting login with credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 09:03:01.664 +06:00 [INF] Login successful for row 55
+2024-11-18 09:03:13.461 +06:00 [INF] Form submitted successfully for RowId: 55
+2024-11-18 09:03:14.304 +06:00 [INF] Logged out after form submission for RowId: 55
+2024-11-18 09:03:14.304 +06:00 [INF] Processing test data for RowId: 54

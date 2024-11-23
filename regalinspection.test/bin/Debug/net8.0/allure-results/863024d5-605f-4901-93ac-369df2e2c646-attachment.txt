@@ -1,0 +1,3 @@
+[09:07:34 INF] Starting LoginWithInvalidCredentials test...
+[09:07:36 INF] Attempting login with invalid credentials for row 56 with username: unknown_admin and password: unknownadmin
+[09:07:39 INF] Login correctly failed for row 56 - Error message is visible

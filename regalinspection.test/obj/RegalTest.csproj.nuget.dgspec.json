@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\TESTING\\New folder\\New folder\\TestingTest\\TestingTest\\RegalTest.csproj": {}
+  },
+  "projects": {
+    "F:\\TESTING\\New folder\\New folder\\TestingTest\\TestingTest\\RegalTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TESTING\\New folder\\New folder\\TestingTest\\TestingTest\\RegalTest.csproj",
+        "projectName": "RegalTest",
+        "projectPath": "F:\\TESTING\\New folder\\New folder\\TestingTest\\TestingTest\\RegalTest.csproj",
+        "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
+        "outputPath": "F:\\TESTING\\New folder\\New folder\\TestingTest\\TestingTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Allure.NUnit": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Allure.Net.Commons": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.104.1, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.26.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.26.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

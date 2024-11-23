@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work\\Regal-Update\\regalinspection.test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\testcases\\submitformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\testcases\\submitformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\pages\\submitformpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\pages\\submitformpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\testrunner\\testrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\testrunner\\testrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\drivers\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\drivers\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\testcases\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\testcases\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\pages\\logoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\pages\\logoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\testcases\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\testcases\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\utilities\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\utilities\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\data\\exceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\data\\exceldatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|f:\\work\\regal-update\\regalinspection.test\\regalinspection.test\\config\\loggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|solutionrelative:regalinspection.test\\config\\loggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ammar\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09E15E-650B-4AEF-B598-BB346DAE9754}|regalinspection.test\\regalinspection.test.csproj|c:\\users\\ammar\\.nuget\\packages\\allure.net.commons\\2.12.1\\contentfiles\\any\\netstandard2.0\\allureconfig.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubmitFormTests.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestCases\\SubmitFormTests.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\TestCases\\SubmitFormTests.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestCases\\SubmitFormTests.cs",
+              "RelativeToolTip": "regalinspection.test\\TestCases\\SubmitFormTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:05:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubmitFormPage.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Pages\\SubmitFormPage.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Pages\\SubmitFormPage.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Pages\\SubmitFormPage.cs",
+              "RelativeToolTip": "regalinspection.test\\Pages\\SubmitFormPage.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA7wFUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:27:23.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestCases\\LoginTests.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\TestCases\\LoginTests.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestCases\\LoginTests.cs",
+              "RelativeToolTip": "regalinspection.test\\TestCases\\LoginTests.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:29:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverManager.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Drivers\\DriverManager.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Drivers\\DriverManager.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Drivers\\DriverManager.cs",
+              "RelativeToolTip": "regalinspection.test\\Drivers\\DriverManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:31:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Pages\\LoginPage.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "regalinspection.test\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:28:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogoutPage.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Pages\\LogoutPage.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Pages\\LogoutPage.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Pages\\LogoutPage.cs",
+              "RelativeToolTip": "regalinspection.test\\Pages\\LogoutPage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:28:48.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseTests.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestCases\\BaseTests.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\TestCases\\BaseTests.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestCases\\BaseTests.cs",
+              "RelativeToolTip": "regalinspection.test\\TestCases\\BaseTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:29:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestRunner.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestRunner\\TestRunner.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\TestRunner\\TestRunner.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\TestRunner\\TestRunner.cs",
+              "RelativeToolTip": "regalinspection.test\\TestRunner\\TestRunner.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:57:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Drivers\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Drivers\\DriverFactory.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Drivers\\DriverFactory.cs",
+              "RelativeToolTip": "regalinspection.test\\Drivers\\DriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:31:29.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HelperMethods.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Utilities\\HelperMethods.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Utilities\\HelperMethods.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Utilities\\HelperMethods.cs",
+              "RelativeToolTip": "regalinspection.test\\Utilities\\HelperMethods.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:29:07.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExcelDataReader.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Data\\ExcelDataReader.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Data\\ExcelDataReader.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Data\\ExcelDataReader.cs",
+              "RelativeToolTip": "regalinspection.test\\Data\\ExcelDataReader.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:55:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggerConfig.cs",
+              "DocumentMoniker": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Config\\LoggerConfig.cs",
+              "RelativeDocumentMoniker": "regalinspection.test\\Config\\LoggerConfig.cs",
+              "ToolTip": "F:\\Work\\Regal-Update\\regalinspection.test\\regalinspection.test\\Config\\LoggerConfig.cs",
+              "RelativeToolTip": "regalinspection.test\\Config\\LoggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:01:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\ammar\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\ammar\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:04:25.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "allureConfig.Template.json",
+              "DocumentMoniker": "C:\\Users\\ammar\\.nuget\\packages\\allure.net.commons\\2.12.1\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json",
+              "ToolTip": "C:\\Users\\ammar\\.nuget\\packages\\allure.net.commons\\2.12.1\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T19:13:17.506Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

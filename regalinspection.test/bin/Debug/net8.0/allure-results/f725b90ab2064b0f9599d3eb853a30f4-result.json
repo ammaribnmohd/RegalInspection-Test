@@ -1,0 +1,242 @@
+{
+  "uuid": "e305333f-4c11-4c7b-bd52-dfc7de064bae",
+  "historyId": "02d7abd315c2564188fe03776c5e2d63",
+  "testCaseId": "d70a3e5e52791cf37378e29137f0f863",
+  "fullName": "regalinspection.test:regalinspection.test.TestCases.SubmitFormTests.SubmitValidInspectionForm()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AMMAR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "regalinspection.test.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "SubmitValidInspectionForm"
+    },
+    {
+      "name": "testClass",
+      "value": "SubmitFormTests"
+    },
+    {
+      "name": "feature",
+      "value": "Submit Inspection Form with Valid Data"
+    },
+    {
+      "name": "suite",
+      "value": "SubmitFormTests"
+    }
+  ],
+  "links": [],
+  "name": "SubmitValidInspectionForm",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Login with credentials for RowId: 55",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Check if dashboard is visible",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1731899714732,
+          "stop": 1731899714749
+        },
+        {
+          "name": "Login Successful",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1731899714749,
+          "stop": 1731899714749
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899711450,
+      "stop": 1731899715751
+    },
+    {
+      "name": "Click on Submit New Form",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899716764,
+      "stop": 1731899717329
+    },
+    {
+      "name": "Filling General Information",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899717329,
+      "stop": 1731899717766
+    },
+    {
+      "name": "Filling Inspection Details",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899717766,
+      "stop": 1731899718383
+    },
+    {
+      "name": "Filling Business Details",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899718383,
+      "stop": 1731899718969
+    },
+    {
+      "name": "Setting Property Values and Liability Options",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899718969,
+      "stop": 1731899719352
+    },
+    {
+      "name": "Submitting the Form",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899721367,
+      "stop": 1731899721480
+    },
+    {
+      "name": "Login with credentials for RowId: 54",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Check if dashboard is visible",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1731899730726,
+          "stop": 1731899730740
+        },
+        {
+          "name": "Login Successful",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1731899730740,
+          "stop": 1731899730740
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899727455,
+      "stop": 1731899731746
+    },
+    {
+      "name": "Click on Submit New Form",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899732754,
+      "stop": 1731899733303
+    },
+    {
+      "name": "Filling General Information",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899733303,
+      "stop": 1731899733759
+    },
+    {
+      "name": "Filling Inspection Details",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899733759,
+      "stop": 1731899734398
+    },
+    {
+      "name": "Filling Business Details",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899734398,
+      "stop": 1731899734968
+    },
+    {
+      "name": "Setting Property Values and Liability Options",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899734968,
+      "stop": 1731899735371
+    },
+    {
+      "name": "Submitting the Form",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1731899737384,
+      "stop": 1731899737483
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "bdd31cd3-494b-4722-be53-93b471c0bfd1-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1731899711359,
+  "stop": 1731899743299
+}

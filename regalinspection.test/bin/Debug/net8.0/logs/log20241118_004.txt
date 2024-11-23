@@ -1,0 +1,10 @@
+2024-11-18 04:07:02.466 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 04:07:05.984 +06:00 [INF] Login successful for row 54
+2024-11-18 04:07:18.599 +06:00 [INF] Tests completed.
+2024-11-18 04:25:05.077 +06:00 [INF] Starting SubmitValidInspectionForm test...
+2024-11-18 04:25:05.108 +06:00 [INF] Processing test data for RowId: 55
+2024-11-18 04:25:06.225 +06:00 [INF] Attempting login with credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 04:25:09.511 +06:00 [INF] Login successful for row 55
+2024-11-18 04:25:21.958 +06:00 [INF] Form submitted successfully for RowId: 55
+2024-11-18 04:25:22.754 +06:00 [INF] Logged out after form submission for RowId: 55
+2024-11-18 04:25:22.755 +06:00 [INF] Processing test data for RowId: 54

@@ -1,0 +1,12 @@
+{
+  "uuid": "2f1b51fb-aa04-49ae-86b1-0b80fcf46110",
+  "name": "regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials",
+  "children": [
+    "ae956cfd-6d39-46e5-9fb2-c52e3c26c7f0"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1731899260454,
+  "stop": 1731899283518
+}

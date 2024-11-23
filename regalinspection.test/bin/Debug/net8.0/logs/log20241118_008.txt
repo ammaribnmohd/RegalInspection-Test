@@ -1,0 +1,27 @@
+2024-11-18 08:48:32.099 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-18 08:48:35.393 +06:00 [ERR] Error encountered during login test for row 54
+OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.117)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at regalinspection.test.Pages.LoginPage.get_DashboardOption() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 18
+   at regalinspection.test.Pages.LoginPage.IsDashboardVisible() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\Pages\LoginPage.cs:line 32
+   at regalinspection.test.TestCases.LoginTests.<>c__DisplayClass2_0.<LoginWithSingleCredential>b__0() in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 109
+   at Allure.Net.Commons.AllureApi.ExecuteAction[T](String name, Action`1 start, Func`1 action, Action`1 resolve)
+   at Allure.Net.Commons.AllureApi.ExecuteStep[T](String name, Func`1 action)
+   at Allure.Net.Commons.AllureApi.Step[T](String name, Func`1 function)
+   at NUnit.Allure.Core.AllureExtensions.WrapInStep[T](AllureLifecycle lifecycle, Func`1 func, String stepName, String callerName)
+   at regalinspection.test.TestCases.LoginTests.LoginWithSingleCredential(Int32 row) in F:\Work\Regal-Update\regalinspection.test\regalinspection.test\TestCases\LoginTests.cs:line 109
+2024-11-18 08:48:53.219 +06:00 [INF] Starting SubmitValidInspectionForm test...
+2024-11-18 08:48:53.250 +06:00 [INF] Processing test data for RowId: 55
+2024-11-18 08:48:54.440 +06:00 [INF] Attempting login with credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-18 08:48:57.691 +06:00 [INF] Login successful for row 55
+2024-11-18 08:49:09.657 +06:00 [INF] Form submitted successfully for RowId: 55
+2024-11-18 08:49:10.440 +06:00 [INF] Logged out after form submission for RowId: 55
+2024-11-18 08:49:10.441 +06:00 [INF] Processing test data for RowId: 54

@@ -1,0 +1,77 @@
+2024-11-17 02:48:19.950 +06:00 [INF] Starting LoginWithInvalidCredentials test...
+2024-11-17 02:48:21.187 +06:00 [INF] Attempting login with invalid credentials for row 56 with username: unknown_admin and password: unknownadmin
+2024-11-17 02:48:24.525 +06:00 [INF] Login correctly failed for row 56 - Error message is visible
+2024-11-17 02:48:25.634 +06:00 [INF] Starting LoginWithValidCredentials test...
+2024-11-17 02:48:26.653 +06:00 [INF] Attempting login with valid credentials for row 51 with username: super_admin and password: SuperAdmin123@
+2024-11-17 02:48:30.122 +06:00 [INF] Login successful for row 51
+2024-11-17 02:48:31.361 +06:00 [INF] Attempting login with valid credentials for row 52 with username: trioval_admin and password: TriovalAdmin123@
+2024-11-17 02:48:34.708 +06:00 [INF] Login successful for row 52
+2024-11-17 02:48:35.936 +06:00 [INF] Attempting login with valid credentials for row 53 with username: trioval_inspector and password: TriovalInspector123@
+2024-11-17 02:48:39.287 +06:00 [INF] Login successful for row 53
+2024-11-17 02:48:40.519 +06:00 [INF] Attempting login with valid credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 02:48:43.820 +06:00 [INF] Login successful for row 54
+2024-11-17 02:48:45.042 +06:00 [INF] Attempting login with valid credentials for row 55 with username: ammar22 and password: Ammar12!
+2024-11-17 02:48:48.271 +06:00 [INF] Login successful for row 55
+2024-11-17 02:48:49.496 +06:00 [INF] Tests completed.
+2024-11-17 04:22:44.179 +06:00 [INF] Tests completed.
+2024-11-17 04:22:54.011 +06:00 [INF] Tests completed.
+2024-11-17 04:24:49.329 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:24:52.772 +06:00 [INF] Login successful for row 54
+2024-11-17 04:24:53.901 +06:00 [INF] Tests completed.
+2024-11-17 04:26:48.893 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:26:52.279 +06:00 [INF] Login successful for row 54
+2024-11-17 04:26:53.413 +06:00 [INF] Tests completed.
+2024-11-17 04:33:04.711 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:33:08.118 +06:00 [INF] Login successful for row 54
+2024-11-17 04:33:09.257 +06:00 [INF] Tests completed.
+2024-11-17 04:35:59.099 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:36:02.510 +06:00 [INF] Login successful for row 54
+2024-11-17 04:36:03.690 +06:00 [INF] Tests completed.
+2024-11-17 04:36:49.039 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:36:52.400 +06:00 [INF] Login successful for row 54
+2024-11-17 04:36:53.576 +06:00 [INF] Tests completed.
+2024-11-17 04:40:57.132 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:41:00.496 +06:00 [INF] Login successful for row 54
+2024-11-17 04:41:02.804 +06:00 [INF] Tests completed.
+2024-11-17 04:59:54.908 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 04:59:58.308 +06:00 [INF] Login successful for row 54
+2024-11-17 05:00:00.598 +06:00 [INF] Tests completed.
+2024-11-17 05:05:57.406 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:06:00.812 +06:00 [INF] Login successful for row 54
+2024-11-17 05:06:04.556 +06:00 [INF] Tests completed.
+2024-11-17 05:06:25.394 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:06:28.835 +06:00 [INF] Login successful for row 54
+2024-11-17 05:06:32.493 +06:00 [INF] Tests completed.
+2024-11-17 05:09:31.953 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:09:35.382 +06:00 [INF] Login successful for row 54
+2024-11-17 05:09:38.941 +06:00 [INF] Tests completed.
+2024-11-17 05:11:24.586 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:11:27.988 +06:00 [INF] Login successful for row 54
+2024-11-17 05:11:43.547 +06:00 [INF] Tests completed.
+2024-11-17 05:19:20.495 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:19:23.895 +06:00 [INF] Login successful for row 54
+2024-11-17 05:19:39.415 +06:00 [INF] Tests completed.
+2024-11-17 05:20:32.882 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:20:36.298 +06:00 [INF] Login successful for row 54
+2024-11-17 05:20:42.229 +06:00 [INF] Tests completed.
+2024-11-17 05:21:41.421 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:21:44.820 +06:00 [INF] Login successful for row 54
+2024-11-17 05:21:50.516 +06:00 [INF] Tests completed.
+2024-11-17 05:22:27.308 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:22:30.698 +06:00 [INF] Login successful for row 54
+2024-11-17 05:22:40.488 +06:00 [INF] Tests completed.
+2024-11-17 05:23:28.002 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:23:31.409 +06:00 [INF] Login successful for row 54
+2024-11-17 05:23:41.202 +06:00 [INF] Tests completed.
+2024-11-17 05:25:22.915 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:25:26.309 +06:00 [INF] Login successful for row 54
+2024-11-17 05:25:37.286 +06:00 [INF] Tests completed.
+2024-11-17 05:25:59.030 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:26:02.456 +06:00 [INF] Login successful for row 54
+2024-11-17 05:26:13.063 +06:00 [INF] Tests completed.
+2024-11-17 05:28:41.052 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:28:44.481 +06:00 [INF] Login successful for row 54
+2024-11-17 05:29:02.687 +06:00 [INF] Tests completed.
+2024-11-17 05:39:10.259 +06:00 [INF] Attempting login with credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+2024-11-17 05:39:13.671 +06:00 [INF] Login successful for row 54
+2024-11-17 05:39:20.384 +06:00 [INF] Tests completed.

@@ -1,0 +1,11 @@
+[09:06:29 INF] Starting LoginWithValidCredentials test...
+[09:06:30 INF] Attempting login with valid credentials for row 51 with username: super_admin and password: SuperAdmin123@
+[09:06:33 INF] Login successful for row 51
+[09:06:34 INF] Attempting login with valid credentials for row 52 with username: trioval_admin and password: TriovalAdmin123@
+[09:06:37 INF] Login successful for row 52
+[09:06:39 INF] Attempting login with valid credentials for row 53 with username: trioval_inspector and password: TriovalInspector123@
+[09:06:42 INF] Login successful for row 53
+[09:06:43 INF] Attempting login with valid credentials for row 54 with username: wammarrrr@gmail.com and password: Ammar12!
+[09:06:46 INF] Login successful for row 54
+[09:06:48 INF] Attempting login with valid credentials for row 55 with username: ammar22 and password: Ammar12!
+[09:06:51 INF] Login successful for row 55

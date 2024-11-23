@@ -1,0 +1,8 @@
+2024-11-17 01:59:06.691 +06:00 [INF] Starting test execution in TestRunner for LoginTests suite...
+2024-11-17 01:59:47.419 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials passed.
+2024-11-17 01:59:47.420 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials passed.
+2024-11-17 01:59:47.421 +06:00 [INF] Test execution completed in TestRunner for LoginTests suite.
+2024-11-17 02:00:58.576 +06:00 [INF] Starting test execution in TestRunner for LoginTests suite...
+2024-11-17 02:01:33.882 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithInvalidCredentials passed.
+2024-11-17 02:01:33.883 +06:00 [INF] Test regalinspection.test.TestCases.LoginTests.LoginWithValidCredentials passed.
+2024-11-17 02:01:33.883 +06:00 [INF] Test execution completed in TestRunner for LoginTests suite.
