@@ -20,7 +20,7 @@ namespace regalinspection.test.Pages
             return wait.Until(driver => driver.FindElement(by));
         }
 
-        // Now you can safely use driver in methods
+        // safely use driver in methods
         public IWebElement SubmitNew => WaitAndFindElement(By.CssSelector("a[routerLink='/inspection-form']"));
 
         // General Information Section
